@@ -4,7 +4,6 @@
 - 🌱 I’m currently a student in Systems Analysis, exploring the world of web development.
 - 💞️ I’d love to join projects where I can learn, contribute, and grow.
 - 📫 You can reach me at: rominacardozo2002py@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I always carry a notebook to jot down random ideas (and college to-dos 😅).
 
 <!---
