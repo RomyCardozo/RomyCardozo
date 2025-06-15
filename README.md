@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @RomyCardozo
+# 👋 Hi, I’m Romy Cardozo
 
 - 👀 I’m interested in technology, useful apps, and learning new things every day.
 - 🌱 I’m currently a student in Systems Analysis, exploring the world of web development.
